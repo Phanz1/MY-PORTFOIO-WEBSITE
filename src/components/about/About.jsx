@@ -23,7 +23,7 @@ const About = () => {
       <article className='about__card'>
         <FaAward className='about__icon'/>
     <h5>Experience</h5>
-    <small>2+ Years working</small>
+    <small>4+ Years working</small>
       </article>
       <article className='about__card'>
         <AiOutlineUser className='about__icon'/>
@@ -37,7 +37,7 @@ const About = () => {
       </article>
     </div>
     <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore similique, ut praesentium explicabo recusandae id, commodi molestiae, harum possimus a fuga porro magni vero! Minima eum quae deleniti quia unde?
+      Please feel free to reach out to me if you require any additional information just click the button below to contact me
     </p>
 
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
