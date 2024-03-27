@@ -17,23 +17,19 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Interaction Designer</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Expert in wireframes Prototypes and Design.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Visual Designer.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-             <li>
-              <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Expert in Graphics, Mockups and Layput.</p>
             </li>
           </ul>
 
@@ -49,23 +45,23 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Front-end Development.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Back-end Development.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Full Stack Develpoment.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Website Development.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Mobile App Development.</p>
             </li>
           </ul>
 
@@ -80,23 +76,23 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Blog post.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Info Graphics.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Videos.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Podast.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Social Media Post.</p>
             </li>
           </ul>
 
