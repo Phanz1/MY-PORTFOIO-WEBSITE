@@ -29,7 +29,7 @@ const services = () => {
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Expert in Graphics, Mockups and Layput.</p>
+              <p>Expert in Graphics, Mockups and Layout.</p>
             </li>
           </ul>
 
@@ -88,7 +88,7 @@ const services = () => {
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Podast.</p>
+              <p>Podcast.</p>
             </li>
              <li>
               <BsCheck2 className='service__list-icon' />
