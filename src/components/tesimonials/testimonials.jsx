@@ -19,22 +19,22 @@ const data = [
   {
   avatar: AVTR1,
   name: 'Joy Bathram',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eos facilis at? Eaque quia harum deserunt iure voluptas similique inventore quae magnam? Deserunt, placeat nisi.'
+    review: 'Without doubt one of the most talented programmers out there.  I always go back to Jekeko when I'm out of my depth and he's never failed to deliver what I ask for.   Smart, trustworthy and professional.   You won't be disappointed..'
   },
   {
     avatar: AVTR2,
-  name: 'Niddy Jekeko',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eos facilis at? Eaque quia harum deserunt iure voluptas similique inventore quae magnam? Deserunt, placeat nisi.'
+  name: 'Pascal Alhamdu',
+    review: 'From the start of the project, through to completion, Nbaron supported us and exceeded our expectations in every way. Not only was our experience personal and friendly, his ability to identify and present our key messages in an imaginative and creative way gave us a huge amount of confidence in him. In many ways Warren understood our client's website needs better than we did and he complimented our vision perfectly. He's reliable, professional and easy to work with. I can’t recommend him highly enough and we look forward to continuing our working relationship together.'
   },
    {
     avatar: AVTR3,
-  name: 'Sadam Husseini',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eos facilis at? Eaque quia harum deserunt iure voluptas similique inventore quae magnam? Deserunt, placeat nisi.'
+  name: 'Pwano Zaki',
+    review: 'Very helpful when building my website, I now have my ecommerce store built from scratch.'
   },
    {
     avatar: AVTR4,
-  name: 'Gal Gadoth',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eos facilis at? Eaque quia harum deserunt iure voluptas similique inventore quae magnam? Deserunt, placeat nisi.'
+  name: 'Aaron Barsisa',
+    review: 'Warren is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him.'
   },
 
 ]
