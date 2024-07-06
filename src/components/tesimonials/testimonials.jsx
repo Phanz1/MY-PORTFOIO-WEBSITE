@@ -19,7 +19,7 @@ const data = [
   {
   avatar: AVTR1,
   name: 'Joy Bathram',
-    review: 'Without doubt one of the most talented programmers out there.  I always go back to Jekeko when I'm out of my depth and he's never failed to deliver what I ask for.   Smart, trustworthy and professional.   You won't be disappointed..',
+   review: 'Without doubt one of the most talented programmers out there',  I always go back to Jekeko when I'm out of my depth and he's never failed to deliver what I ask for.   Smart, trustworthy and professional.   You won't be disappointed..'
   },
   {
     avatar: AVTR2,
